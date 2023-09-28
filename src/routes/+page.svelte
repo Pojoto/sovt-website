@@ -39,8 +39,13 @@
     
     
     /* Full height */
-    height: 100%; 
-    width: 100%;
+    /* height: 100vh; 
+    width: 100vw; */
+    min-height: 100%;
+    min-width: 100%;
+    position:fixed;
+    top:0;
+    left:0;
     
     /* Center and scale the image nicely */
     background-position: center;
@@ -72,7 +77,7 @@
         top: 50%;
         left: 45%;
         transform: translate(-50%, -50%);
-        width: 90%;   
+        width: 90vw;   
 
     }
 
