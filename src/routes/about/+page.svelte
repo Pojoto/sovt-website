@@ -1,6 +1,3 @@
-<svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-</svelte:head>
 
 
 <script>
@@ -32,6 +29,8 @@
 
 
 
+
+
 <style>
 
     .group .title{
@@ -49,8 +48,5 @@
         justify-content: center;
     }
 
-    body {
-        overflow: scroll;
-    }
 
 </style>

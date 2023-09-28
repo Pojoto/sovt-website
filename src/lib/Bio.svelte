@@ -1,8 +1,8 @@
 
 
 <div class="box">
-    <img src="images/IMG_4460.jpeg" style="width:100%;height:100%" alt="bio"/>
-    <p class="bio">My name is Thomas</p>
+    <img src="images/IMG_4460.jpefg" style="width:100%;height:100%" alt="bio"/>
+    <p class="bio">hello there</p>
   </div>
 
 

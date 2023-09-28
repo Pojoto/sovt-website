@@ -1,8 +1,4 @@
 
-<svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-</svelte:head>
-
 <script>
     import Button from '$lib/Button.svelte';
 </script>
@@ -12,7 +8,7 @@
 
     <div class="content">
 
-        <img src="/images/sovtlogo_transparent_white.png" class="logo" alt="Main SO@VT Logo">
+        <img src="/images/sovtlogo_transparent_white.png" class="big-logo" alt="Main SO@VT Logo">
 
         <div class="border b"></div>
         <div class="border"></div>
@@ -41,8 +37,8 @@
     /* Full height */
     /* height: 100vh; 
     width: 100vw; */
-    min-height: 100%;
-    min-width: 100%;
+    min-height: 100vh;
+    min-width: 100vw;
     position:fixed;
     top:0;
     left:0;
@@ -56,15 +52,12 @@
     background-size: cover; */
     }
 
-    body {
+    /* :global(body) {
         margin: 0;
         height: 100vh;
-        /* display: flex;
-        align-items: center;
-        justify-content: center;
-        background-color: white; */
+
         overflow: hidden;
-    }
+    } */
 
 
     .content {
@@ -81,7 +74,7 @@
 
     }
 
-    .logo {
+    .big-logo {
 
         width: 30rem;
         padding: 5rem;

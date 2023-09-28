@@ -1,10 +1,5 @@
 
 
-<svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-</svelte:head>
-
-
 <script>
     export let title = "";
     export let content = "";
@@ -24,10 +19,9 @@
         display: block;
         border-radius: 2rem;
         background-color: orange;
-        font-size: 1rem;
         font-family: 'Montserrat', sans-serif;
-        width: 15rem;
-        height: 15rem;
+        width: 10rem;
+        height: 10rem;
         text-align: center;
         margin-left: 2rem;
         margin-right: 2rem;
@@ -36,13 +30,13 @@
 
     .card-title {
         margin-top: 1rem;
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 500;
     }
 
     .card-content {
 
-        font-size: 4rem;
+        font-size: 3rem;
         position:absolute;
 
         top: 50%;

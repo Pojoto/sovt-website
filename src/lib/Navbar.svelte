@@ -1,8 +1,4 @@
 
-<svelte:head>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-</svelte:head>
-
 <div class="navbar">
     <div class=""><a href="/"><img src="/images/navbar_logo.png" class="logo" alt="SO@VT Logo"><a/></div>
     <div class="buttons">
@@ -63,7 +59,6 @@
     .logo {
         width: 5rem;
         padding: 1rem;
-        padding-left: 2rem;
     }
 
     .buttons {
