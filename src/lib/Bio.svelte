@@ -1,8 +1,8 @@
 
 
 <div class="box">
-    <img src="http://placehold.it/257x200.jpg" alt="bio"/>
-    <p class="bio">I am super cool.</p>
+    <img src="images/IMG_4460.jpeg" style="width:100%;height:100%" alt="bio"/>
+    <p class="bio">My name is Thomas</p>
   </div>
 
 

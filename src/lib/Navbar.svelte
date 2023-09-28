@@ -9,6 +9,7 @@
         <a href="/about" class="button">About Us</a>
         <a href="google.com" class="button">Contact</a>
         <a href="google.com" class="button">Hello</a>
+        <a href="/tournament-info" class="button">Tournament Info</a>
     </div>
 
 </div>
@@ -17,7 +18,7 @@
 <style>
     .navbar {
         position: absolute;
-        width: 100%;
+        width: 100vw;
         top: 0;
         right: 0;
         display:flex;
@@ -44,6 +45,13 @@
         font-size: 1rem;
         font-family: 'Montserrat', sans-serif;
         padding: 1rem;
+
+        transition: 0.3s;
+    }
+
+    .button:hover {
+        color: orange;
+
     }
 
     a {
@@ -55,6 +63,7 @@
     .logo {
         width: 5rem;
         padding: 1rem;
+        padding-left: 2rem;
     }
 
     .buttons {
