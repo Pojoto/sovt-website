@@ -8,11 +8,19 @@
 <script>
     export let text = "";
     export let url = "/";
+    export let active = true;
 </script>
 
-<a href={url} class="button">
-    {text}
-</a>
+{#if active}
+    <a href={url} class="button">
+        {text}
+    </a>
+{:else}
+    <div class="button" style="background-color:lightgray">
+        {text}
+    </div>
+{/if}
+
 
 
 
@@ -20,14 +28,13 @@
 
     .button{
         display: block;
-        border: solid orange 5px;
         border-radius: .5rem;
         background-color: orange;
         font-size: 1rem;
         font-family: 'Montserrat', sans-serif;
         width: 10rem;
-        height: 2rem;
-        line-height: 2rem;
+        height: 2.25rem;
+        line-height: 2.25rem;
         text-align: center;
         margin: auto;
         box-shadow: 0 0px 15px rgba(255, 255, 255, 0);
