@@ -5,6 +5,7 @@
 
 <script>
     import Card from '$lib/Card.svelte'; 
+    import Button from '$lib/Button.svelte';
 </script>
 
 
@@ -20,7 +21,16 @@
         <Card title="Cost" content="$100*"/>
     </div>
 
-    The Virginia Tech Invitational will be held in-person on Virginia Tech's campus in Blacksburg, Virginia.
+    <div class="info">
+        The Virginia Tech Invitational will be held in-person on Virginia Tech's campus in Blacksburg, Virginia. 
+        Registration cost will be $100 for the first team and $80 for additional teams. Registration will open on 
+        October 2 for VA teams, and October 6 for all other teams. We will be closing registration on Friday, November 10th at 11:59 PM.
+        SO@VT will be providing high-quality tests and experienced event supervisors for every event.
+
+    </div>
+
+    <Button text="Register Here" url="/" active={false}/>
+
 
 </body>
 
@@ -43,7 +53,18 @@
     .cards {
         display: flex;
         align-items: center;
+        justify-content: center;
         margin-top: 2rem;
+    }
+
+    .info {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2rem;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
     }
 
 </style>
