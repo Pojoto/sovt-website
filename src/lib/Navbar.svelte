@@ -4,9 +4,9 @@
 </svelte:head>
 
 <div class="navbar">
-    <img src="/images/sovtlogo_transparent_white.png" class="logo" alt="SO@VT Logo">
+    <div class=""><a href="/"><img src="/images/navbar_logo.png" class="logo" alt="SO@VT Logo"><a/></div>
     <div class="buttons">
-        <a href="google.com" class="button">About Us</a>
+        <a href="/about" class="button">About Us</a>
         <a href="google.com" class="button">Contact</a>
         <a href="google.com" class="button">Hello</a>
     </div>
@@ -48,6 +48,8 @@
 
     a {
         text-decoration: none;
+        display: block;
+        margin:auto;
     }
 
     .logo {
