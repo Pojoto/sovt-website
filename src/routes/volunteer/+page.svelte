@@ -31,7 +31,7 @@
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/campus.png");
+        background-image: url("/images/campus2.jpg");
         z-index: -1;
         /* Full height */
         /* height: 100vh; 

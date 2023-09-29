@@ -24,7 +24,7 @@
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/pylons.png");
+        background-image: url("/images/pylons.jpg");
         z-index: -1;
         /* Full height */
         /* height: 100vh; 

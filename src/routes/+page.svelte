@@ -31,7 +31,7 @@
 
     .bg-image {
         /* The image used */
-    background-image: url("/images/vtphoto.png");
+    background-image: url("/images/torg.jpg");
     
     
     /* Full height */
