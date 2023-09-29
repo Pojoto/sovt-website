@@ -133,7 +133,7 @@
 
     @media (max-width: 1000px) {
         .content {
-            margin-top: 1rem;
+            margin-top: 4rem;
             flex-direction: column;
             top: 50%;
             left: 50%;
@@ -152,6 +152,7 @@
 
         .invy-banner {
             padding: 3rem;
+            font-size: 1.5rem;
         }
 
         .border.b {

@@ -52,7 +52,9 @@
 
         padding: 5rem;
 
-        width: 75vw;
+        width: 50vw;
+
+        margin-top: 5rem;
         
         word-wrap: break-word;
 
