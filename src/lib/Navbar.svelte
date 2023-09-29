@@ -2,10 +2,11 @@
 <div class="navbar">
     <div class=""><a href="/"><img src="/images/navbar_logo.png" class="logo" alt="SO@VT Logo"><a/></div>
     <div class="buttons">
-        <a href="/about" class="button">About Us</a>
-        <a href="google.com" class="button">Contact</a>
-        <a href="google.com" class="button">Hello</a>
         <a href="/tournament-info" class="button">Tournament Info</a>
+        <!-- <a href="/about" class="button">About Us</a> -->
+        <a href="/our-team" class="button">Our Team</a>
+        <a href="/volunteer" class="button">Volunteer</a>
+        <a href="/contact" class="button">Contact</a>
     </div>
 
 </div>
