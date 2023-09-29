@@ -9,6 +9,7 @@
 <style>
     img {
         width:50rem;
+        max-width: 100vw;
         margin-top: 10rem;
         margin-left: auto;
         margin-right: auto;

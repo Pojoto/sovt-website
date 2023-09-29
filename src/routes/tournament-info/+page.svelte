@@ -9,6 +9,10 @@
     <div class="title">
         <b>2024 Virginia Tech Invitational</b>
     </div>
+
+    <div class="division">Division C</div>
+    <br>
+    <div class="division">January 27, 2024</div>
     
     <div class="cards">
         <Card title="Date" content="1/27/24"/>
@@ -27,13 +31,15 @@
             </h2>
         
             <p>
-                Registration cost will be <b>$100</b> for the first team and <b>$80</b> for additional teams, up to max 3 teams. <br>Registration is first come, first serve, and will open on 
+                Registration cost will be <b>$100</b> for the first team and <b>$80</b> for additional teams, up to max 3 teams per school. 
+                Our team # cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
                 <b>October 2</b> for Virginia teams, and <b>October 6</b> for all other states.
                 <br><br>
     
     
-                *If your school qualifies for the VASO Outreach Initiative, we will waive half of your registration fees. 
-                If your school otherwise has special circumstances that prevent you from paying the regsitration fees, please reach out to us at scienceolympiadvt@gmail.com
+                <span style="font-size:0.75rem">*If your school qualifies for the VASO Outreach Initiative, we will waive half of your registration fees. 
+                If your school otherwise has special circumstances that prevent you from paying the regsitration fees, 
+                please reach out to us at scienceolympiadvt@gmail.com</span>
         
                 <br><br>
                 <Button text="Register Here" url="/" active={false}/>
@@ -102,6 +108,13 @@
         font-family: 'Montserrat', sans-serif;
         font-size: 3rem;
 
+    }
+
+    .division {
+        display: none;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
     }
 
     .cards {
@@ -184,6 +197,16 @@
         transform: translate(-50%);
 
         transition: 0.3s;
+    }
+
+    @media (max-width: 1000px) {
+        .cards {
+            display: none;
+        }   
+
+        .division {
+            display: inline;
+        }   
     }
 
 

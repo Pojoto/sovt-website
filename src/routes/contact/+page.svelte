@@ -24,7 +24,7 @@
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/pylons.jpg");
+        background-image: url("/images/pylons.png");
         z-index: -1;
         /* Full height */
         /* height: 100vh; 
@@ -53,6 +53,8 @@
         padding: 5rem;
 
         width: 75vw;
+        
+        word-wrap: break-word;
 
         position:absolute;
 

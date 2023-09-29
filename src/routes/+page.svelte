@@ -113,6 +113,15 @@
         }
     }
 
+    @keyframes growWidth {
+        0% {
+            width: 0;
+        }
+        100% {
+            width: 15rem;
+        }
+    }
+
     @keyframes fadeInAnimation {
         0% {
             opacity: 0;
@@ -122,5 +131,34 @@
         }
     }
 
+    @media (max-width: 1000px) {
+        .content {
+            margin-top: 1rem;
+            flex-direction: column;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); 
+        }   
+
+        .border {
+            width: 15rem;
+            height: 1rem;
+        }
+
+        .big-logo {
+            width: 20rem;
+            padding: 0rem;
+        }
+
+        .invy-banner {
+            padding: 3rem;
+        }
+
+        .border.b {
+            border-bottom: 5px solid orange;
+            border-right: 0px solid orange;
+            animation: growWidth ease 2s 1 forwards;
+        }
+    }
 
 </style>
