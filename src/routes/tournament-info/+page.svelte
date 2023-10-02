@@ -22,7 +22,7 @@
     </div>
     
     <div class="info">
-        <b>We're extremely excited to announce the 3rd Virginia Tech Invitational! It will be held in-person on Virginia Tech's campus in Blacksburg, Virginia.</b>
+        <b>We're excited to announce the 2024 Virginia Tech Invitational! It will be held in-person on Virginia Tech's campus in Blacksburg, Virginia and is open to teams from Virginia and across the country.</b>
     
     
         <div class="section">
@@ -30,16 +30,17 @@
                 Registration
             </h2>
         
-            <p>
-                Registration cost will be <b>$100</b> for the first team and <b>$80</b> for additional teams, up to max 3 teams per school. 
-                Our team # cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
-                <b>October 2</b> for Virginia teams, and <b>October 6</b> for all other states.
+            <p style="text-align:left">
+                Registration cost will be <b>$100</b> for the first team and <b>$80</b> for additional teams, up to 3 teams per school. 
+                Our team cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
+                <b>October 2</b> for Virginia teams, and <b>October 6</b> for other states.
                 <br><br>
+            </p>
     
-    
-                <span style="font-size:0.75rem">*If your school qualifies for the VASO Outreach Initiative, we will waive half of your registration fees. 
+            <p style="text-align:left">
+                We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school and qualify for the VASO Outreach Initiative, we will waive half of your registration fees. 
                 If your school otherwise has special circumstances that prevent you from paying the regsitration fees, 
-                please reach out to us at scienceolympiadvt@gmail.com</span>
+                please reach out to us at scienceolympiadvt@gmail.com</p>
         
                 <br><br>
                 <Button text="Register Here" url="/" active={false}/>
@@ -55,44 +56,26 @@
             </h2>
         
             <p>
-                Test quality is extremely important to us. Tests will be written by experienced Science Olympiad alumni from Virginia Tech and around the country. 
-                Each test goes through a series of checks and deadlines to ensure the highest quality.
+                Tournament quality is extremely important to us. Tests will be written by experienced Science Olympiad alumni from Virginia Tech and around the country. 
+                Each test goes through a series of checks and deadlines to ensure the highest quality. <br>
+                <ul style="display:inline-block">
+                    <li></li>
+                    <li></li>
+                </ul>
+                <br>
         
             </p>
         </div>
 
         <div class="section">
             <h2>
-                Map
+                Campus Map, Food, Schedule, VT Programs
             </h2>
         
             <p>
-                Events will be held at buildings across the academic side of campus. 
-                <br>
-                <br>
-                <a href="https://www.vt.edu/content/dam/vt_edu/maps-locations/blacksburg-map-july21.pdf" target="_blank">PDF Map</a>
-                <br>
-                <a href="https://campusmap.aws.gis.cloud.vt.edu/">Online Interactive Map</a>
+                Coming Soon! 🦃
         
             </p>
-        </div>
-
-        <div class="section">
-            <h2>
-                Food
-            </h2>
-        
-                There are several dining halls across campus, located mainly on the residential side. Some options:<br>
-                <ul style="display:inline-block">
-                    <li>a</li>
-                    <li>b</li>
-                    <li>c</li>
-                    <li>d</li>
-                </ul>
-                <br>
-
-                If you really want to, food can be found off campus. (Virginia Tech is ranked #2 in campus food!)
-
         </div>
 
 
