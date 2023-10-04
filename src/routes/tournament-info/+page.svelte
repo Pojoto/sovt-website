@@ -40,7 +40,7 @@
             <p style="text-align:left">
                 We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school and qualify for the VASO Outreach Initiative, we will waive half of your registration fees. 
                 If your school otherwise has special circumstances that prevent you from paying the regsitration fees, 
-                please reach out to us at scienceolympiadvt@gmail.com</p>
+                please reach out to us at scienceolympiadvt@gmail.com
         
                 <br><br>
                 <Button text="Register Here" url="/" active={false}/>
@@ -64,7 +64,7 @@
                 </ul>
                 <br>
         
-            </p>
+            
         </div>
 
         <div class="section">
