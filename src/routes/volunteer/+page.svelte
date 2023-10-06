@@ -13,12 +13,30 @@
     <br>
     SO@VT Regionals & Invitationals would be impossible without the amazing work of our volunteers each tournament. 
     <br><br>
-    We have a few hundred volunteers come out each year to help with running events, scoring events, handing out awards, 
-    and just helping students get around campus. If you need volunteer hours, this is the perfect place to come. 
-    Our tournament lasts all day, so you can knock out a bunch of your volunteer hours at once. If you’d like to volunteer please fill out the following form:
 
+    We have 100-200 volunteers come out each year to serve our student competitors. Roles include:
+
+    <ul>
+        <li>Test writing</li>
+        <li>Build event supervising</li>
+
+        <li>Test/lab event supervising</li>
+
+        <li>Grading</li>
+
+        <li>General helpers (registration, campus guides, clean up, etc.)</li>
+
+    </ul>
+
+    <br>
+    <br>
+
+    If you need service hours, being part of tournament day is an immensely fulfilling and fun way to serve. 
+    <br>
+    We welcome you to volunteer either for the full day or for a few hours. Please fill out the following 
+    form to stay in touch with us:
     <br><br>
-    <Button text="Volunteer Form" url="https://docs.google.com/forms/d/e/1FAIpQLScVRZ-NJZpJIPt5aZ97u_-yKpkOGzL_E8GgBop9ArfNn-2DOQ/viewform"/>
+    <Button text="Volunteer Form" url="https://forms.gle/zm3VTkN4QrfjiH9G6"/>
 </div>
 
 
@@ -71,6 +89,14 @@
         margin-left: auto;
         margin-right: auto;
     }
+
+    ul {
+        display: inline-block;
+        text-align: left;
+        color: rgb(161, 105, 0);
+    }
+
+
 </style>
 
 

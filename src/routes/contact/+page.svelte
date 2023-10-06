@@ -16,6 +16,12 @@
     <br>
     <br>
     <a href="https://www.instagram.com/scienceolympiadatvt/?hl=en"><img src="images/instagram.png" alt="instagram logo"></a>
+
+    <br>
+
+    <br>
+    <a href = "https://gobblerconnect.vt.edu/organization/sovt" target = "_blank">Our Gobbler Connect</a>
+
     
 </div>
 
