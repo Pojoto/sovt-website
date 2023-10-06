@@ -13,6 +13,7 @@
         <!-- <a href="/about" class="button">About Us</a> -->
         <a href="/our-team" class="button">Our Team</a>
         <a href="/volunteer" class="button">Volunteer</a>
+        <a href="/past-tournaments" class="button">Past Tournaments</a>
         <a href="/contact" class="button">Contact</a>
         
     </div>
@@ -28,6 +29,7 @@
         <!-- <a href="/about" class="button">About Us</a> -->
         <a href="/our-team" on:click={() => {on = false}} class="button">Our Team</a>
         <a href="/volunteer" on:click={() => {on = false}} class="button">Volunteer</a>
+        <a href="/past-tournaments" on:click={() => {on = false}} class="button">Past Tournaments</a>
         <a href="/contact" on:click={() => {on = false}} class="button">Contact</a>
         
     </div>
@@ -86,7 +88,7 @@
         z-index: 1;
         text-align: center;
 
-        height: 20rem;
+        height: 22rem;
     }
 
     .button:hover {
