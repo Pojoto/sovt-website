@@ -16,6 +16,8 @@
 
     We have 100-200 volunteers come out each year to serve our student competitors. Roles include:
 
+    <br>
+
     <ul>
         <li>Test writing</li>
         <li>Build event supervising</li>
