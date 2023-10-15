@@ -1,5 +1,7 @@
 
-
+<svelte:head>
+    <title>Our Team</title>
+</svelte:head>
 <img src="images/team03.jpg" alt="SO@VT Team">
 
 <h1>

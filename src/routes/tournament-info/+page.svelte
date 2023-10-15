@@ -1,4 +1,6 @@
-
+<svelte:head>
+    <title>Tournament Info</title>
+</svelte:head>
 <script>
     import Card from '$lib/Card.svelte'; 
     import Button from '$lib/Button.svelte';

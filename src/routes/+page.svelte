@@ -1,4 +1,8 @@
 
+<svelte:head>
+    <title>Science Olympiad at Virginia Tech</title>
+</svelte:head>
+
 <script>
     import Button from '$lib/Button.svelte';
 </script>

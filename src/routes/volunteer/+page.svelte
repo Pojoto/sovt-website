@@ -1,4 +1,6 @@
-
+<svelte:head>
+    <title>Volunteer</title>
+</svelte:head>
 
 <script>
     import Button from '$lib/Button.svelte';
