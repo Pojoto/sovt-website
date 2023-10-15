@@ -28,8 +28,8 @@
         font-size: 1rem;
         font-family: 'Montserrat', sans-serif;
         width: 10rem;
-        height: 2.25rem;
-        line-height: 2.25rem;
+        height: 2.5rem;
+        line-height: 2.5rem;
         text-align: center;
         margin: auto;
         box-shadow: 0 0px 15px rgba(255, 255, 255, 0);
