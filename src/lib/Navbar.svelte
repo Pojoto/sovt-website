@@ -7,18 +7,18 @@
 </script>
 
 <div class="navbar">
-    <div class=""><a href="/" on:click={() => {on = false;}}><img src="/images/navbar_logo.png" class="logo" alt="SO@VT Logo"><a/></div>
+    <div class=""><a href="/" on:click={() => {on = false;}}><img src="/images/navbar_logo.png" class="logo" alt="SO@VT Logo"></a></div>
     <div class="buttons">
         <a href="/tournament-info" class="button">Tournament Info</a>
         <!-- <a href="/about" class="button">About Us</a> -->
-        <a href="/our-team" class="button">Our Team</a>
+        <a href="/about" class="button">About Us</a>
         <a href="/volunteer" class="button">Volunteer</a>
         <a href="/past-tournaments" class="button">Past Tournaments</a>
         <a href="/contact" class="button">Contact</a>
         
     </div>
 
-    <a href="javascript:void(0);" on:click={() => {on = !on}} id="hamburger"><img src="images/hamburger.png" class="hamburger" alt=""Hamburger Menu></a>
+    <a href="#" on:click={() => {on = !on}} id="hamburger"><img src="images/hamburger.png" class="hamburger" alt="Hamburger Menu"></a>
 
 </div>
 
@@ -27,7 +27,7 @@
     <div class="buttons2">
         <a href="/tournament-info" on:click={() => {on = false}} class="button">Tournament Info</a>
         <!-- <a href="/about" class="button">About Us</a> -->
-        <a href="/our-team" on:click={() => {on = false}} class="button">Our Team</a>
+        <a href="/about" on:click={() => {on = false}} class="button">About Us</a>
         <a href="/volunteer" on:click={() => {on = false}} class="button">Volunteer</a>
         <a href="/past-tournaments" on:click={() => {on = false}} class="button">Past Tournaments</a>
         <a href="/contact" on:click={() => {on = false}} class="button">Contact</a>
@@ -76,7 +76,11 @@
     .hamburger {
         width: 0rem;
         height: 3rem;
-        display: block;
+        display: none;
+    }
+
+    #hamburger {
+        display: none;
     }
 
     .menu {
@@ -138,6 +142,11 @@
         .hamburger {
             width: 3rem;
             margin-right: 2rem;
+            display: block;
+        }
+
+        #hamburger {
+            display: inline;
         }
 
         .menu {

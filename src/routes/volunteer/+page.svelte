@@ -80,7 +80,7 @@
     }
     .content {
 
-        width: 75vw;
+        width: 70vw;
 
         padding: 3rem;
 
