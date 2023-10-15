@@ -2,27 +2,47 @@
     <title>Contact</title>
 </svelte:head>
 
+<script>
+    import Button from '$lib/Button.svelte';
+</script>
+
 <div class="bg-image"></div>
 
 <div class="content">
-    Email us at
-    <br>
-    <h1 style="color:orange">scienceolympiadvt@gmail.com</h1>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    Find us on Instagram
-    <br>
-    <br>
-    <a href="https://www.instagram.com/scienceolympiadatvt/?hl=en"><img src="images/instagram.png" alt="instagram logo"></a>
 
-    <br>
+    <div class="title">Contact Us</div>
 
-    <br>
-    <a href = "https://gobblerconnect.vt.edu/organization/sovt" target = "_blank">Our Gobbler Connect</a>
+    <!-- <a href="mailto:scienceolympiadvt@gmail.com"> -->
+        <div class="contact-line">
+            <img src="images/mail.png" alt="email icon">
+            <div class="text">scienceolympiadvt@gmail.com</div>
+        </div>
+    <!-- </a> -->
+
+    <a href="https://www.instagram.com/scienceolympiadatvt/?hl=en">
+        <div class="contact-line">
+            <img src="images/instagram.png" alt="instagram logo">
+            <div class="text">@scienceolympiadatvt</div>
+        </div>
+    </a>
+
+    <a href="https://scioly.org/forums/viewtopic.php?p=458738&sid=aab649a1f98528d5fc09e8f33607bba1#p458738">
+        <div class="contact-line">
+            <img src="images/flask.png" alt="science icon">
+            <div class="text">Scioly.org Forum</div>
+        </div>
+    </a>
+
+    <a href="https://gobblerconnect.vt.edu/organization/sovt">
+        <div class="contact-line">
+            <img src="images/search.png" alt="search icon">
+            <div class="text">Our Gobbler Connect</div>
+        </div>
+    </a>
+
+    <br><br>
+
+    <Button text="Join Email List!" url="https://docs.google.com/forms/d/e/1FAIpQLSfxU0omjzC0QqIwv6mLxwYWr-15VpMt_LUKzQD5UwfsqVBSwg/viewform"/>
 
     
 </div>
@@ -63,8 +83,6 @@
         width: 50vw;
 
         margin-top: 5rem;
-        
-        word-wrap: break-word;
 
         position:absolute;
 
@@ -77,9 +95,52 @@
 
     }
 
-    img {
-        width: 10rem;
+    .title {
+        text-align: center;
+        font-size: 3rem;
+
     }
+
+    .contact-line {
+        text-align: left;
+        margin-left: 5rem;
+        line-height: 5rem;
+        display: flex;
+        margin-top: 2rem;
+    }
+
+    .contact-line:hover img{
+        filter: hue-rotate(100deg);
+    }
+
+    img {
+        width: 5rem;
+        height: 5rem;
+        display: block;
+        margin-right: 1rem;
+
+        transition: 0.3s;
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+
+    @media (max-width: 1000px) {
+        .contact-line {
+            flex-direction: column;
+            margin-left: 0rem;
+            text-align: center;
+            align-items: center;
+        }
+
+        .content {
+            margin-top: 15rem;
+        }
+    }
+
 
 
 
