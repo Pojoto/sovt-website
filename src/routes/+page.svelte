@@ -1,6 +1,9 @@
 
 <svelte:head>
     <title>Science Olympiad at Virginia Tech</title>
+    <meta name="description" content="Science Olympiad at Virginia Tech is a student-run 
+    organization at VT that hosts Science Olympiad tournaments and pursues outreach to 
+    underdeveloped schools in STEM. Our 2024 Invitational will be held on January, 27, 2024.">
 </svelte:head>
 
 <script>
