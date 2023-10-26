@@ -116,6 +116,17 @@
             </p>
         </div>
 
+        <div class="section">
+            <h2>
+                Travel Details
+            </h2>
+        
+            <p>
+                Travel Details can be found...
+        
+            </p>
+        </div>
+
 
     </div>
 </div>
