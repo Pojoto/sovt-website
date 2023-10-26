@@ -116,6 +116,28 @@
             </p>
         </div>
 
+        <div class="section">
+            <h2>
+                Travel Details
+            </h2>
+        
+            <p>
+                 See our packet for more information
+        
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>
+                Lab Tours
+            </h2>
+        
+            <p>
+                CEED is helping...
+        
+            </p>
+        </div>
+
 
     </div>
 </div>
