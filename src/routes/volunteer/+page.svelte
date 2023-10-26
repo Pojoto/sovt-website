@@ -13,7 +13,7 @@
         Volunteer!
     </div>
     <br>
-    SO@VT Regionals & Invitationals would be impossible without the amazing work of our volunteers each tournament. 
+    SO@VT Regionals & Invitationals would be impossible without the wonderful work of our volunteers each tournament. 
     <br><br>
 
     We have 100-200 volunteers come out each year to serve our student competitors. Roles include:
