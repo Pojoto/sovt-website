@@ -17,12 +17,26 @@
         
     <div class="section">
         <h2>
+            2024 Division C Invitational
+        </h2>
+    
+        <p style="">
+            Our first in-person tournament in 4 years! Thanks to all the volunteers, coaches, teams, and staff who helped make this possible. 
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
+        <br>
+        <Button text="Tests" url="https://drive.google.com/drive/folders/1CC2sOz8P2mDImZ6BAsIeiUmVzH1c3Rb9"/>
+
+    </div>
+
+    <div class="section">
+        <h2>
             2023 Division B Invitational
         </h2>
     
         <p style="">
-            Thank you to all teams who participated in our first Division B virtual invitational! 
-
+            Congrats to all the teams who participated in this online invitational!
         </p>
 
         <Button text="Results" url="https://www.duosmium.org/results/2023-01-21_virginia_tech_invitational_b/"/>
