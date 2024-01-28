@@ -26,7 +26,7 @@
             <b>January 27, 2024</b>
             <br>
             <br>
-            <Button text="More Info" url="/tournament-info"/>
+            <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
         </div> 
 
     </div>
