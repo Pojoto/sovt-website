@@ -26,8 +26,6 @@
 
         <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
         <br>
-        <Button text="Tests" url="https://drive.google.com/drive/folders/1CC2sOz8P2mDImZ6BAsIeiUmVzH1c3Rb9"/>
-
     </div>
 
     <div class="section">
