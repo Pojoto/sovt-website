@@ -14,6 +14,20 @@
     </div>
     <br>
 
+
+    <div class="section">
+        <h2>
+            2024 Division C Regional
+        </h2>
+    
+        <p style="">
+            Official Virginia Regional tournament, ran with VASO and feat. The Hokie Bird!
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2024-02-17_VA_virginia_tech_regional_c/"/>
+        <br>
+    </div>
+
         
     <div class="section">
         <h2>
