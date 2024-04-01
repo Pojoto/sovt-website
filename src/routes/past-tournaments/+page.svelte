@@ -14,15 +14,42 @@
     </div>
     <br>
 
+
+    <div class="section">
+        <h2>
+            2024 Division C Regional
+        </h2>
+    
+        <p style="">
+            Official Virginia Regional tournament, ran with VASO and feat. The Hokie Bird!
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2024-02-17_VA_virginia_tech_regional_c/"/>
+        <br>
+    </div>
+
         
+    <div class="section">
+        <h2>
+            2024 Division C Invitational
+        </h2>
+    
+        <p style="">
+            Our first in-person tournament in 4 years! Thanks to all the volunteers, coaches, teams, and staff who helped make this possible. 
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
+        <br>
+        <Button text="Tests" url="https://drive.google.com/drive/folders/1dEcsw-EJh7pVCrWThTMk72c5tGwWTYWc"/>
+    </div>
+
     <div class="section">
         <h2>
             2023 Division B Invitational
         </h2>
     
         <p style="">
-            Thank you to all teams who participated in our first Division B virtual invitational! 
-
+            Congrats to all the teams who participated in this online invitational!
         </p>
 
         <Button text="Results" url="https://www.duosmium.org/results/2023-01-21_virginia_tech_invitational_b/"/>
