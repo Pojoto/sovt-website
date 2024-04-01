@@ -9,23 +9,10 @@
 <div class='bg-image'></div>
 <div class="content">
     <div class="title">
-        <b>2024 Science Olympiad at Virginia Tech Invitational</b>
-    </div>
-
-    <div class="division">Division C</div>
-    <br>
-    <div class="division">January 27, 2024</div>
-    
-    <div class="cards">
-        <Card title="Date" content="1/27/24"/>
-        <Card title="Division" content="C"/>
-        <Card title="Team # Cap" content="32"/>
-        <Card title="Cost" content="$100"/>
+        <b>2025 Virginia Tech Invitational</b>
     </div>
     
-    <div class="info">
-        <b>We're excited to announce the 2024 Virginia Tech Invitational! It will be held in-person on Virginia Tech's campus in Blacksburg, Virginia and is open to teams from Virginia and across the country.</b>
-    
+    <div class="info">    
     
         <div class="section">
             <h2>
@@ -33,21 +20,21 @@
             </h2>
         
             <p style="">
-                Registration cost will be <b>$100</b> for the first team and <b>$80</b> for additional teams, up to a maximum of 3 teams per school. 
-                Our team cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
-                <b>October 2</b> for Virginia teams, and <b>October 6</b> for other states.
+                Registration details for the 2025 Invitational are <b>TBD</b>.
                 <br><br>
             </p>
     
             <p style="">
-                We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school and qualify for the VASO Outreach Initiative, we will waive half of your registration fees. 
+                <!-- We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school and qualify for the VASO Outreach Initiative, we will waive half of your registration fees. 
                 If your school otherwise has special circumstances that prevent you from paying the registration fees, 
                 please reach out to us at scienceolympiadvt@gmail.com
         
-                <br><br>
-                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLScBBQE8dZRdnpWDDE7f8RkJL2gYuzKzbp78SMWQRXhukXOaqQ/viewform?usp=sf_link" active={true}/>
+                <br><br> -->
+                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLScBBQE8dZRdnpWDDE7f8RkJL2gYuzKzbp78SMWQRXhukXOaqQ/viewform?usp=sf_link" active={false}/>
         
-                <b style="font-size:.75rem">Registration closes November 10 @ 11:59 PM EST</b>
+                <b style="font-size:.75rem">Registration opens TBD</b>
+
+                <br><br><br><br>
         
             </p>
         </div>
@@ -60,49 +47,39 @@
             <p style='text-align:left'>We will have opportunities for exclusive university lab tours, 
                 connecting with VT students and programs, and meeting the Hokie 
                 Bird (our wonderful school mascot!). We encourage students to 
-                explore VT’s campus and award-winning dining halls during our 
+                explore VT’s beautiful campus and award-winning dining halls during our 
                 tournament.</p>
 
                 <br>
 
             <h1 class="subtitle">Build Events</h1>
-            <p style='text-align:left'>We’re working closely with VASO to align 
-                build testing with Regionals and State tournament standards. 
-                We expect to run all builds this year.</p>
+            <p style='text-align:left'>We work closely with VASO to align 
+                build testing with Regionals and State tournament standards. These standards 
+                normally resemble National rules, so out-of-state teams are still encouraged to come! 
+                </p>
 
                 <br>
 
             <h1 class="subtitle">Test Events</h1>
             <p style='text-align:left'>Our writers are experienced Science Olympiad 
                 alumni from Virginia Tech and other colleges. 
-                Tests go through rounds of thorough review and revision to ensure quality.</p>
+                Tests go through rounds of thorough review and revision to ensure quality. 
+                As seasoned SO alumni, we know what high quality tests look like and how to achieve them.</p>
 
                 <br>
 
             <h1 class="subtitle">Early-Spring Regionals Prep</h1>
             <p style='text-align:left'>We are targeting our invitational to give teams the
-                 best competitive start to the Regionals/States season. 
-                 Virginia teams can return for our Virginia Tech Regional 
-                 on February 17th.</p>
+                 best competitive start to the Regionals/States season. We aim for an early-year competition date.</p>
 
-            
                  <br>
 
             <h1 class="subtitle">Webinars and Support</h1>
             <p style='text-align:left'>We host an annual Q&A webinar leading up 
                 to our competition, where SO alumni give competition advice. 
                 We’d love to answer any questions you have about our tournament 
-                or team logistics in general.</p>
+                or Science Olympiad in general.</p>
 
-            <!-- <h2>
-                Tests
-            </h2>
-        
-            <p>
-                Tournament quality is extremely important to us. Tests will be written by experienced Science Olympiad alumni from Virginia Tech and around the country. 
-                Each test goes through a series of checks and deadlines to ensure the highest quality. <br>
-                <br>
-            </p> -->
         </div>
 
         <div class="section">
