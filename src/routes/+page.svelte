@@ -23,10 +23,10 @@
         <div class="invy-banner">
             Division C. Invitational
             <br>
-            <b>January 27, 2024</b>
+            <b>February 1, 2025</b>
             <br>
             <br>
-            <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
+            <Button text="More Info" url="https://www.sciolyvt.org/tournament-info"/>
         </div> 
 
     </div>
