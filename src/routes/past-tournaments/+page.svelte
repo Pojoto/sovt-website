@@ -40,7 +40,7 @@
 
         <Button text="Results" url="https://www.duosmium.org/results/2024-01-27_virginia_tech_invitational_c/"/>
         <br>
-        <Button text="Tests" url="https://drive.google.com/drive/folders/1dEcsw-EJh7pVCrWThTMk72c5tGwWTYWc"/>
+        <Button text="Tests" url="https://drive.google.com/drive/folders/1QXQGpW1TwGaJTJ470ITslaKDNzSRF1-V?usp=drive_link"/>
     </div>
 
     <div class="section">
@@ -54,7 +54,7 @@
 
         <Button text="Results" url="https://www.duosmium.org/results/2023-01-21_virginia_tech_invitational_b/"/>
         <br>
-        <Button text="Tests" url="https://drive.google.com/drive/folders/1CC2sOz8P2mDImZ6BAsIeiUmVzH1c3Rb9"/>
+        <Button text="Tests" url="https://drive.google.com/drive/folders/10YtifYp5YcgQuSouOcCOTaI0lU9HrNus?usp=sharing"/>
 
     </div>
 
