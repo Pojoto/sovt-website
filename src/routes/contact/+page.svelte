@@ -42,7 +42,7 @@
 
     <br><br>
 
-    <Button text="Join Email List!" url="https://forms.gle/JnSeBFMeCvSgLRcH7"/>
+    <Button text="Join Email List!" url="https://forms.gle/PJNkzkCbvuk3Hzah8"/>
 
     
 </div>
