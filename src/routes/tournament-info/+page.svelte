@@ -34,14 +34,14 @@
                 Registration
             </h2>
 
-            <p style="">
+            <p style="text-align:center;">
                 Registration cost will be <b>$75</b> for all teams, up to a maximum of 3 teams per school. 
-                Our team cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
-                <b>October 2</b> for all teams. Virginia teams will be given priority!
+                Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
+                <b>September 29</b> for all teams. Virginia teams will be given priority!
                 <br><br>
             </p>
     
-            <p style="">
+            <p style="text-align:center;">
                 We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school 
                 and qualify for the VASO Outreach Initiative, the registration fee will instead be $30. 
                 If your school otherwise has special circumstances that prevent you from paying the registration fees, 
@@ -50,7 +50,7 @@
                 <br><br>
                 <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLScBBQE8dZRdnpWDDE7f8RkJL2gYuzKzbp78SMWQRXhukXOaqQ/viewform?usp=sf_link" active={false}/>
         
-                <b style="font-size:.75rem">Registration closes November 6 @ 11:59 PM EST</b>
+                <b style="font-size:.75rem;">Registration opens September 29</b>
         
             </p>
         </div>
