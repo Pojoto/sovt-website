@@ -18,7 +18,7 @@
         position: relative;
         display: block;
         border-radius: 2rem;
-        background-color: orange;
+        background-color: rgb(255, 135, 135);
         font-family: 'Montserrat', sans-serif;
         width: 10rem;
         height: 10rem;

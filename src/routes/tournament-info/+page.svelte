@@ -58,7 +58,7 @@
 
             <h2>Why SO@VT?</h2>
 
-            <h1 class="subtitle">Explore Virginia Tech</h1>
+            <h1 class="subtitle" style="text-decoration-color: lightblue;">Explore Virginia Tech</h1>
             <p style='text-align:left'>We will have opportunities for exclusive university lab tours, 
                 connecting with VT students and programs, and meeting the Hokie 
                 Bird (our wonderful school mascot!). We encourage students to 
@@ -67,21 +67,21 @@
 
                 <br>
 
-            <h1 class="subtitle">Build Events</h1>
+            <h1 class="subtitle" style="text-decoration-color: gold;">Build Events</h1>
             <p style='text-align:left'>We’re working closely with VASO to align 
                 build testing with Regionals and State tournament standards. 
                 We expect to run all builds this year.</p>
 
                 <br>
 
-            <h1 class="subtitle">Test Events</h1>
+            <h1 class="subtitle" style="text-decoration-color: lawngreen;">Test Events</h1>
             <p style='text-align:left'>Our writers are experienced Science Olympiad 
                 alumni from Virginia Tech and other colleges. 
                 Tests go through rounds of thorough review and revision to ensure quality.</p>
 
                 <br>
 
-            <h1 class="subtitle">Early-Spring Regionals Prep</h1>
+            <h1 class="subtitle" style="text-decoration-color: mediumvioletred;">Early-Spring Regionals Prep</h1>
             <p style='text-align:left'>We are targeting our invitational to give teams the
                  best competitive start to the Regionals/States season. 
                  Virginia teams can return for our Virginia Tech Regional 
@@ -90,7 +90,7 @@
             
                  <br>
 
-            <h1 class="subtitle">Webinars and Support</h1>
+            <h1 class="subtitle" style="text-decoration-color: darkorange;">Webinars and Support</h1>
             <p style='text-align:left'>We host an annual Q&A webinar leading up 
                 to our competition, where SO alumni give competition advice. 
                 We’d love to answer any questions you have about our tournament 
@@ -230,7 +230,7 @@
         font-weight: 1000;
         text-decoration: underline;
         text-underline-offset: .4rem;
-        text-decoration-color: orange;
+        /* text-decoration-color: orange; */
         text-align: left;
 
     }
