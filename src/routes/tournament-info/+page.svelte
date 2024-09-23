@@ -12,9 +12,8 @@
         <b>2025 Virginia Tech Invitational</b>
     </div>
 
-    <div class="division">Division C</div>
+    <div class="division">Splash of Color</div>
     <br>
-    <div class="division">February 1, 2025</div>
     
     <div class="cards">
         <Card title="Date" content="2/1/25"/>
@@ -135,10 +134,10 @@
     }
 
     .division {
-        display: none;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
-        font-size: 2rem;
+        font-size: 1.5rem;
+        font-style: italic;
     }
 
     .cards {
