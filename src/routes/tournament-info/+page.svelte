@@ -19,13 +19,41 @@
     <div class="cards">
         <Card title="Date" content="2/1/25"/>
         <Card title="Division" content="C"/>
-        <Card title="Team # Cap" content="TBD"/>
-        <Card title="Cost" content="TBD"/>
+        <Card title="Team # Cap" content="32"/>
+        <Card title="Cost" content="$75"/>
     </div>
     
     <div class="info">
-        <b>The date for the 2025 Virginia Tech Invitational has been decided! More details are to come.</b>
+        <b>We're excited to announce the 2025 Virginia Tech Invitational! 
+            It will be held on Virginia Tech's campus in Blacksburg, Virginia 
+            and is open to teams from Virginia and across the country.</b>
     
+
+        <div class="section">
+            <h2>
+                Registration
+            </h2>
+
+            <p style="">
+                Registration cost will be <b>$75</b> for all teams, up to a maximum of 3 teams per school. 
+                Our team cap this year is 32 teams.<br>Registration is first come, first serve, and will open on 
+                <b>October 2</b> for all teams. Virginia teams will be given priority!
+                <br><br>
+            </p>
+    
+            <p style="">
+                We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school 
+                and qualify for the VASO Outreach Initiative, the registration fee will instead be $30. 
+                If your school otherwise has special circumstances that prevent you from paying the registration fees, 
+                please reach out to us at scienceolympiadvt@gmail.com
+        
+                <br><br>
+                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLScBBQE8dZRdnpWDDE7f8RkJL2gYuzKzbp78SMWQRXhukXOaqQ/viewform?usp=sf_link" active={false}/>
+        
+                <b style="font-size:.75rem">Registration closes November 6 @ 11:59 PM EST</b>
+        
+            </p>
+        </div>
 
         <div class="section">
 
