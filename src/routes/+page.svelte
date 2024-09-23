@@ -26,7 +26,7 @@
             <b>February 1, 2025</b>
             <br>
             <br>
-            <Button text="More Info" url="https://www.sciolyvt.org/tournament-info"/>
+            <Button text="More Info" url="/tournament-info"/>
         </div> 
 
     </div>
