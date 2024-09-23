@@ -181,7 +181,7 @@
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/drillfield_sunset.jpg");
+        background-image: url("/images/color_splash_background.jpg");
         z-index: -1;
         /* Full height */
         /* height: 100vh; 
