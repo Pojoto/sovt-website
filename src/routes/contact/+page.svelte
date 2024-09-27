@@ -26,7 +26,7 @@
         </div>
     </a>
 
-    <a href="https://scioly.org/forums/viewtopic.php?p=458738&sid=aab649a1f98528d5fc09e8f33607bba1#p458738">
+    <a href="https://scioly.org/forums/viewtopic.php?t=28758">
         <div class="contact-line">
             <img src="images/flask.png" alt="science icon">
             <div class="text">Scioly.org Forum</div>
