@@ -21,12 +21,14 @@
         <div class="border"></div>
 
         <div class="invy-banner">
-            Division C. Invitational
+            Division C Invitational
             <br>
+            <p style="font-size:medium; margin-top: 0.25rem;">Splash of Color</p>
+            
             <b>February 1, 2025</b>
             <br>
             <br>
-            <Button text="More Info" url="/tournament-info"/>
+            <Button text="More Info" url="/tournament-info" bgcolor="#F36196" txtcolor="white"/>
         </div> 
 
     </div>
