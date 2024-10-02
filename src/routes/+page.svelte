@@ -15,7 +15,7 @@
 
     <div class="content">
 
-        <img src="/images/sovtlogo_transparent_white.png" class="big-logo" alt="Main SO@VT Logo">
+        <img src="/images/sovtlogo_transparent_black.png" class="big-logo" alt="Main SO@VT Logo">
 
         <div class="border b"></div>
         <div class="border"></div>
@@ -38,7 +38,7 @@
 
     .bg-image {
         /* The image used */
-    background-image: url("/images/torg.jpg");
+    background-image: url("/images/light_color.jpg");
     
     
     /* Full height */
@@ -95,7 +95,7 @@
     }
 
     .border.b {
-        border-right: 5px solid orange;
+        border-right: 5px solid #F36196;
         animation: growHeight ease 2s 1 forwards;
     }
 
@@ -104,7 +104,7 @@
         text-align: center;
         font-size: 2rem;
         font-family: 'Montserrat', sans-serif;
-        color: white;
+        color: black;
 
         padding: 7rem;
         animation: fadeInAnimation ease 2s 1 forwards;
