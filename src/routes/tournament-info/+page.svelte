@@ -32,15 +32,15 @@
             <h2>
                 Registration
             </h2>
-
-            <p style="text-align:center;">
+            <br>
+            <p style="text-align:center; width:75%; margin:auto">
                 Registration cost will be <b>$75</b> for all teams, up to a maximum of 3 teams per school. 
                 Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
                 <b>September 29</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
                 <br><br>
             </p>
     
-            <p style="text-align:center;">
+            <p style="text-align:center; width:75%; margin:auto">
                 We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school 
                 and qualify for the VASO Outreach Initiative, the registration fee will instead be $30. 
                 If your school otherwise has special circumstances that prevent you from paying the registration fees, 
@@ -58,7 +58,7 @@
 
             <h2>Why SO@VT?</h2>
 
-            <h1 class="subtitle" style="text-decoration-color: lightblue;">Explore Virginia Tech</h1>
+            <h1 class="subtitle" style="text-decoration-color: darkorange;">Explore Virginia Tech</h1>
             <p style='text-align:left'>We will have opportunities for exclusive university lab tours, 
                 connecting with VT students and programs, and meeting the Hokie 
                 Bird (our wonderful school mascot!). We encourage students to 
@@ -67,21 +67,21 @@
 
                 <br>
 
-            <h1 class="subtitle" style="text-decoration-color: gold;">Build Events</h1>
+            <h1 class="subtitle" style="text-decoration-color: darkorange;">Build Events</h1>
             <p style='text-align:left'>We’re working closely with VASO to align 
                 build testing with Regionals and State tournament standards. 
                 We expect to run all builds this year.</p>
 
                 <br>
 
-            <h1 class="subtitle" style="text-decoration-color: lawngreen;">Test Events</h1>
+            <h1 class="subtitle" style="text-decoration-color: darkorange;">Test Events</h1>
             <p style='text-align:left'>Our writers are experienced Science Olympiad 
                 alumni from Virginia Tech and other colleges. 
                 Tests go through rounds of thorough review and revision to ensure quality.</p>
 
                 <br>
 
-            <h1 class="subtitle" style="text-decoration-color: mediumvioletred;">Early-Spring Regionals Prep</h1>
+            <h1 class="subtitle" style="text-decoration-color: darkorange;">Early-Spring Regionals Prep</h1>
             <p style='text-align:left'>We are targeting our invitational to give teams the
                  best competitive start to the Regionals/States season. 
                  Virginia teams can return for our Virginia Tech Regional 
