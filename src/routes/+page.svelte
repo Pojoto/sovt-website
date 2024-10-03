@@ -165,8 +165,8 @@
         }
 
         .border.b {
-            border-bottom: 5px solid orange;
-            border-right: 0px solid orange;
+            border-bottom: 5px solid #F36196;
+            border-right: 0px solid #F36196;
             animation: growWidth ease 2s 1 forwards;
         }
     }
