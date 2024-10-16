@@ -40,7 +40,7 @@
     We welcome you to volunteer either for the full day or for a few hours. Please fill out the following 
     form to stay in touch with us:
     <br><br>
-    <Button text="Volunteer Form" url="https://docs.google.com/forms/d/e/1FAIpQLSdUeTiYwdY6QUn4l6R03Vom7EE4UI9yFD125d6wxZeGJeUP4w/viewform?usp=sf_link"/>
+    <Button text="Volunteer Form" url="https://forms.gle/WZ8i7eWeFQknCKLS8"/>
 </div>
 
 
