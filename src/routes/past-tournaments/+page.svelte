@@ -17,6 +17,21 @@
 
     <div class="section">
         <h2>
+            2025 Division C Invitational
+        </h2>
+    
+        <p style="">
+            Massive thanks to everyone who helped run this tournament! We held the popular Hokie Hunt and Disney Trivia as our trial events!
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/" active={true}/>
+        <br>
+        <Button text="Tests Coming Soon" url="/" active={false}/>
+    </div>
+
+
+    <div class="section">
+        <h2>
             2024 Division C Regional
         </h2>
     
