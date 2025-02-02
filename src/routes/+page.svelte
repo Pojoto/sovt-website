@@ -28,7 +28,7 @@
             <b>February 1, 2025</b>
             <br>
             <br>
-            <Button text="Results Soon" url="/tournament-info" bgcolor="#F36196" txtcolor="white" active={false}/>
+            <Button text="Results Soon" url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/" bgcolor="#F36196" txtcolor="white" active={true}/>
         </div> 
 
     </div>
