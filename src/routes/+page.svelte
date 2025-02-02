@@ -28,7 +28,7 @@
             <b>February 1, 2025</b>
             <br>
             <br>
-            <Button text="More Info" url="/tournament-info" bgcolor="#F36196" txtcolor="white"/>
+            <Button text="Results Soon" url="/tournament-info" bgcolor="#F36196" txtcolor="white" active={false}/>
         </div> 
 
     </div>
