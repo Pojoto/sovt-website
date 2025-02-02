@@ -22,11 +22,11 @@
     
         <p style="">
             Congrats to all the teams who participated! We also hope you enjoyed our new trial events, Hokie Hunt and Disney Trivia.
+        </p>
 
         <Button text="Results" url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/" active={true}/>
         <br>
         <Button text="Tests" url="https://drive.google.com/drive/folders/1uv_aNdDVI8ZS1jmfVil6X9VnU3MyuS55?usp=sharing" active={true}/>
-        <br>
     </div>
 
 
