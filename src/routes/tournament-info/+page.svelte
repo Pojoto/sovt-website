@@ -12,18 +12,12 @@
         <b>2026 Virginia Tech Invitational</b>
     </div>
     <br>
-    
-    <div class="cards">
-        <Card title="Date" content="1/31/26"/>
-        <Card title="Division" content="C"/>
-        <Card title="Team # Cap" content="?"/>
-        <Card title="Cost" content="?"/>
-    </div>
+
     
     <div class="info">
-        <b>We're excited to announce the 2025 Virginia Tech Invitational! 
-            It will be held on Virginia Tech's campus in Blacksburg, Virginia 
-            and is open to teams from Virginia and across the country.</b>
+        <p>
+            ...Coming January 31, 2026...
+        </p>
     
         <div class="section">
 
