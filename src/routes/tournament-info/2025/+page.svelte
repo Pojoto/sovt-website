@@ -9,15 +9,17 @@
 <div class='bg-image'></div>
 <div class="content">
     <div class="title">
-        <b>2026 Virginia Tech Invitational</b>
+        <b>2025 Virginia Tech Invitational</b>
     </div>
+
+    <div class="division">Splash of Color</div>
     <br>
     
     <div class="cards">
-        <Card title="Date" content="1/31/26"/>
+        <Card title="Date" content="2/1/25"/>
         <Card title="Division" content="C"/>
-        <Card title="Team # Cap" content="?"/>
-        <Card title="Cost" content="?"/>
+        <Card title="Team # Cap" content="32"/>
+        <Card title="Cost" content="$75"/>
     </div>
     
     <div class="info">
@@ -25,6 +27,33 @@
             It will be held on Virginia Tech's campus in Blacksburg, Virginia 
             and is open to teams from Virginia and across the country.</b>
     
+
+        <div class="section">
+            <h2>
+                Registration
+            </h2>
+            <br>
+            <p style="text-align:center; width:75%; margin:auto">
+                Registration cost will be <b>$75</b> for all teams, up to a maximum of 3 teams per school. 
+                Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
+                <b>September 29</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
+                <br><br>
+            </p>
+    
+            <p style="text-align:center; width:75%; margin:auto">
+                We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school 
+                and qualify for the VASO Outreach Initiative, the registration fee will instead be $30. 
+                If your school otherwise has special circumstances that prevent you from paying the registration fees, 
+                please reach out to us at scienceolympiadvt@gmail.com
+        
+                <br><br>
+                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSfKujNBEzva6eQql-Qbr9vDyCcR3QmTFO8iCoeR_txkTsgUrg/viewform?usp=sf_link" active={false}/>
+        
+                <b style="font-size:.75rem;">Registration closes December 6th @ 11:59PM EST</b>
+        
+            </p>
+        </div>
+
         <div class="section">
 
             <h2>Why SO@VT?</h2>
