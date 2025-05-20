@@ -16,7 +16,7 @@
     
     <div class="info">
         <p>
-            ...Coming January 31, 2026...
+            ...Coming <b>January 31, 2026</b>...
         </p>
     
         <div class="section">
