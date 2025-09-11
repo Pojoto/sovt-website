@@ -1,3 +1,6 @@
+commenting out the script did make the white screen go away :
+
+
 
 <svelte:head>
     <title>Science Olympiad at Virginia Tech</title>
@@ -10,55 +13,55 @@
     import Button from '$lib/Button.svelte';
 </script>
 
-<body>
-    <div class='bg-image'></div>
+<div class='bg-image'></div>
 
-    <div class="content">
+<div class="content">
+    <img src="/images/sovtlogo_transparent_black.png" class="big-logo" alt="Main SO@VT Logo">
 
-        <img src="/images/sovtlogo_transparent_black.png" class="big-logo" alt="Main SO@VT Logo">
+    <div class="border b"></div>
+    <div class="border"></div>
 
-        <div class="border b"></div>
-        <div class="border"></div>
+    <div class="invy-banner">
+        Division C Invitational
+        <br>
+        <p style="font-size:medium; margin-top: 0.25rem;">Splash of Color</p>
 
-        <div class="invy-banner">
-            Division C Invitational
-            <br>
-            <p style="font-size:medium; margin-top: 0.25rem;">Splash of Color</p>
-            
-            <b>February 1, 2025</b>
-            <br>
-            <br>
-            <Button text="Results" url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/" bgcolor="#F36196" txtcolor="white" active={true}/>
-        </div> 
-
+        <b>February 1, 2025</b>
+        <br><br>
+        <Button
+                text="Results"
+                url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/"
+                bgcolor="#F36196"
+                txtcolor="white"
+                active={true}
+        />
     </div>
-
-</body>
+</div>
 
 
 <style>
 
     .bg-image {
         /* The image used */
-    background-image: url("/images/light_color.jpg");
-    
-    
-    /* Full height */
-    /* height: 100vh; 
-    width: 100vw; */
-    min-height: 100vh;
-    min-width: 100vw;
-    position:fixed;
-    top:0;
-    left:0;
-    
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-repeat: no-repeat;
-    background-attachment: fixed;  
-    background-size: cover; */
+        background-image: url("/images/light_color.jpg");
+
+
+        /* Full height */
+        /* height: 100vh;
+        width: 100vw; */
+        min-height: 100vh;
+        min-width: 100vw;
+        position:fixed;
+        top:0;
+        left:0;
+
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover; */
     }
 
     /* :global(body) {
@@ -79,7 +82,7 @@
         top: 50%;
         left: 45%;
         transform: translate(-50%, -50%);
-        width: 90vw;   
+        width: 90vw;
 
     }
 
@@ -91,7 +94,7 @@
 
     .border {
         width: 1rem;
-    
+
         height: 30rem;
 
     }
@@ -146,8 +149,8 @@
             flex-direction: column;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%); 
-        }   
+            transform: translate(-50%, -50%);
+        }
 
         .border {
             width: 15rem;
@@ -172,3 +175,5 @@
     }
 
 </style>
+
+heres my page.svelte code
