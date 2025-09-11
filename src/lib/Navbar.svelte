@@ -18,7 +18,9 @@
         
     </div>
 
-    <a href="#" on:click={() => {on = !on}} id="hamburger"><img src="images/hamburger.png" class="hamburger" alt="Hamburger Menu"></a>
+    <button on:click={() => {on = !on}} id="hamburger" class="hamburger-button">
+        <img src="images/hamburger.png" class="hamburger" alt="Hamburger Menu">
+    </button>
 
 </div>
 
