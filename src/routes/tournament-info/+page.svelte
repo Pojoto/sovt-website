@@ -33,9 +33,9 @@
             </h2>
             <br>
             <p style="text-align:center; width:75%; margin:auto">
-                Registration cost will be <b>$75</b> for all teams, up to a maximum of 3 teams per school. 
+                Registration cost will be <b>$125</b> for all teams, up to a maximum of 3 teams per school. 
                 Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
-                <b>September 22?</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
+                <b>September 22</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
                 <br><br>
             </p>
     
@@ -48,7 +48,7 @@
                 <br><br>
                 <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSfIJPr-Qsn3Vzu81WvKvHpUXE2WlsvyCE-NhNRDihZq_-7uoA/viewform" active={false}/>
         
-                <b style="font-size:.75rem;">Registration opens September 22? @ 11:59PM EST</b>
+                <b style="font-size:.75rem;">Registration opens September 22 @ 12:00AM EST</b>
         
             </p>
         </div>
