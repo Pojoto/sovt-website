@@ -31,7 +31,7 @@ commenting out the script did make the white screen go away :
         <Button
                 text="More Info"
                 url="https://www.sciolyvt.org/tournament-info"
-                bgcolor="#F36196"
+                bgcolor="#B8860B"
                 txtcolor="white"
                 active={true}
         />
@@ -100,7 +100,7 @@ commenting out the script did make the white screen go away :
     }
 
     .border.b {
-        border-right: 5px solid #F36196;
+        border-right: 5px solid #B8860B;
         animation: growHeight ease 2s 1 forwards;
     }
 
@@ -168,8 +168,8 @@ commenting out the script did make the white screen go away :
         }
 
         .border.b {
-            border-bottom: 5px solid #F36196;
-            border-right: 0px solid #F36196;
+            border-bottom: 5px solid #B8860B;
+            border-right: 0px solid #B8860B;
             animation: growWidth ease 2s 1 forwards;
         }
     }
