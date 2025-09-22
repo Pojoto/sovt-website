@@ -24,13 +24,13 @@ commenting out the script did make the white screen go away :
     <div class="invy-banner">
         Division C Invitational
         <br>
-        <p style="font-size:medium; margin-top: 0.25rem;">Splash of Color</p>
+        <p style="font-size:medium; margin-top: 0.25rem;"></p>
 
-        <b>February 1, 2025</b>
+        <b>January 31, 2026</b>
         <br><br>
         <Button
-                text="Results"
-                url="https://www.duosmium.org/results/2025-02-01_virginia_tech_invitational_c/"
+                text="More Info"
+                url="https://www.sciolyvt.org/tournament-info"
                 bgcolor="#F36196"
                 txtcolor="white"
                 active={true}
@@ -43,7 +43,7 @@ commenting out the script did make the white screen go away :
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/light_color.jpg");
+        background-image: url("/images/blueish_splash.jpg");
 
 
         /* Full height */
