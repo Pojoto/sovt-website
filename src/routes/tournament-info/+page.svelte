@@ -179,7 +179,7 @@
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/watercolor_blur.jpg");
+        background-image: url("/images/dark_blueish_blur.jpg");
         z-index: -1;
         /* Full height */
         /* height: 100vh; 
