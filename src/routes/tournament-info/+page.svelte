@@ -84,7 +84,7 @@
             <p style='text-align:left'>We are targeting our invitational to give teams the
                  best competitive start to the Regionals/States season. 
                  Virginia teams can return for our Virginia Tech Regional 
-                 on February 15th, 2025.</p>
+                 on February 21st, 2026.</p>
 
             
                  <br>
