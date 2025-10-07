@@ -43,7 +43,7 @@ commenting out the script did make the white screen go away :
 
     .bg-image {
         /* The image used */
-        background-image: url("/images/blueish_splash.jpg");
+        background-image: url("/images/galaxy.jpg");
 
 
         /* Full height */
