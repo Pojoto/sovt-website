@@ -16,7 +16,7 @@ commenting out the script did make the white screen go away :
 <div class='bg-image'></div>
 
 <div class="content">
-    <img src="/images/sovtlogo_transparent_black.png" class="big-logo" alt="Main SO@VT Logo">
+    <img src="/images/sovtlogo_transparent_white.png" class="big-logo" alt="Main SO@VT Logo">
 
     <div class="border b"></div>
     <div class="border"></div>
@@ -31,8 +31,8 @@ commenting out the script did make the white screen go away :
         <Button
                 text="More Info"
                 url="https://www.sciolyvt.org/tournament-info"
-                bgcolor="#B8860B"
-                txtcolor="white"
+                bgcolor="#E0E0E0"
+                txtcolor="black"
                 active={true}
         />
     </div>
@@ -100,7 +100,7 @@ commenting out the script did make the white screen go away :
     }
 
     .border.b {
-        border-right: 5px solid #B8860B;
+        border-right: 5px solid #E0E0E0;
         animation: growHeight ease 2s 1 forwards;
     }
 
@@ -109,7 +109,7 @@ commenting out the script did make the white screen go away :
         text-align: center;
         font-size: 2rem;
         font-family: 'Montserrat', sans-serif;
-        color: black;
+        color: white;
 
         padding: 7rem;
         animation: fadeInAnimation ease 2s 1 forwards;
