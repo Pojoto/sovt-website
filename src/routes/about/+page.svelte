@@ -69,8 +69,8 @@
         <h2>Volunteering</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot_25/AnjaliPamulapti.jpg" alt="Anjali Pamulapti" style="border: 5px solid #e7a8e0;">
-                <p>Anjali Pamulapti</p>
+                <img src="images/photoshoot_25/AnjaliPamulapati.jpg" alt="Anjali Pamulapati" style="border: 5px solid #e7a8e0;">
+                <p>Anjali Pamulapati</p>
             </div>
             <div class="officer">
                 <img src="images/photoshoot_25/MaggieLi.png" alt="Maggie Li" style="border: 5px solid #e7a8e0;">
