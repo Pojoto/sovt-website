@@ -19,20 +19,20 @@
         <h2>Exec</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot/ThiviyaKaruppasamy.jpg" alt="Thiviya Karuppasamy" style="border: 5px solid #076c9b;">
+                <img src="images/photoshoot25/ThiviyaKaruppasamy.jpg" alt="Thiviya Karuppasamy" style="border: 5px solid #076c9b;">
                 <p>Thiviya Karuppasamy</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/JakeOBrien.jpg" alt="Jake O' Brien" style="border: 5px solid #076c9b;">
+                <img src="images/photoshoot25/JakeOBrien.jpg" alt="Jake O' Brien" style="border: 5px solid #076c9b;">
                 <p>Jake O' Brien</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/ReaganNguyen.png" alt="Reagan Nguyen" style="border: 5px solid #076c9b;">
+                <img src="images/photoshoot25/ReaganNguyen.png" alt="Reagan Nguyen" style="border: 5px solid #076c9b;">
                 <p>Reagan Nguyen</p>
             </div>
             <div class="officer break"></div>
             <div class="officer">
-                <img src="images/photoshoot/JoylynWang.jpg" alt="Joylyn Wang" style="border: 5px solid #076c9b;">
+                <img src="images/photoshoot25/JoylynWang.jpg" alt="Joylyn Wang" style="border: 5px solid #076c9b;">
                 <p>Joylyn Wang</p>
             </div>
         </div>
@@ -42,24 +42,24 @@
         <h2>Tournament Logistics</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot/TarunNandamudi.jpg" alt="Tarun Nandamudi" style="border: 5px solid #8e3108;">
+                <img src="images/photoshoot25/TarunNandamudi.jpg" alt="Tarun Nandamudi" style="border: 5px solid #8e3108;">
                 <p>Tarun Nandamudi</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/CatherineFelix.png" alt="Catherine Felix" style="border: 5px solid #8e3108;">
+                <img src="images/photoshoot25/CatherineFelix.png" alt="Catherine Felix" style="border: 5px solid #8e3108;">
                 <p>Catherine Felix</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/ChloeWu.jpg" alt="Chloe Wu" style="border: 5px solid #8e3108;">
+                <img src="images/photoshoot25/ChloeWu.jpg" alt="Chloe Wu" style="border: 5px solid #8e3108;">
                 <p>Chloe Wu</p>
             </div>
             <div class="officer break"></div>
             <div class="officer">
-                <img src="images/photoshoot/HenryAyers.jpg" alt="Henry Ayers" style="border: 5px solid #8e3108;">
+                <img src="images/photoshoot25/HenryAyers.jpg" alt="Henry Ayers" style="border: 5px solid #8e3108;">
                 <p>Henry Ayers</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/AdiDesai.jpg" alt="Adi Desai" style="border: 5px solid #8e3108;">
+                <img src="images/photoshoot25/AdiDesai.jpg" alt="Adi Desai" style="border: 5px solid #8e3108;">
                 <p>Adi Desai</p>
             </div>
         </div>
@@ -69,15 +69,15 @@
         <h2>Volunteering</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot/AnjaliPamulapti.jpg" alt="Anjali Pamulapti" style="border: 5px solid #e7a8e0;">
+                <img src="images/photoshoot25/AnjaliPamulapti.jpg" alt="Anjali Pamulapti" style="border: 5px solid #e7a8e0;">
                 <p>Anjali Pamulapti</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/MaggieLi.png" alt="Maggie Li" style="border: 5px solid #e7a8e0;">
+                <img src="images/photoshoot25/MaggieLi.png" alt="Maggie Li" style="border: 5px solid #e7a8e0;">
                 <p>Maggie Li</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/EmmaGotlib.png" alt="Emma Gotlib" style="border: 5px solid #e7a8e0;">
+                <img src="images/photoshoot25/EmmaGotlib.png" alt="Emma Gotlib" style="border: 5px solid #e7a8e0;">
                 <p>Emma Gotlib</p>
             </div>
         </div>
@@ -87,19 +87,19 @@
         <h2>Outreach</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot/SimbaSrivastava.jpg" alt="Simba Srivastava" style="border: 5px solid #e40000;">
+                <img src="images/photoshoot25/SimbaSrivastava.jpg" alt="Simba Srivastava" style="border: 5px solid #e40000;">
                 <p>Simba Srivastava</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/BlazeCutinho.jpg" alt="Blaze Cutinho" style="border: 5px solid #e40000;">
+                <img src="images/photoshoot25/BlazeCutinho.jpg" alt="Blaze Cutinho" style="border: 5px solid #e40000;">
                 <p>Blaze Cutinho</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/AndrewHanna.jpg" alt="Andrew Hanna" style="border: 5px solid #e40000;">
+                <img src="images/photoshoot25/AndrewHanna.jpg" alt="Andrew Hanna" style="border: 5px solid #e40000;">
                 <p>Andrew Hanna</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/ChristinaLin.jpg" alt="Christina Lin" style="border: 5px solid #e40000;">
+                <img src="images/photoshoot25/ChristinaLin.jpg" alt="Christina Lin" style="border: 5px solid #e40000;">
                 <p>Christina Lin</p>
             </div>
         </div>
@@ -109,19 +109,19 @@
         <h2>Public Relations</h2>
         <div class="officer-container">
             <div class="officer">
-                <img src="images/photoshoot/SarayuPulipati.jpg" alt="Sarayu Pulipati" style="border: 5px solid #6cbe68;">
+                <img src="images/photoshoot25/SarayuPulipati.jpg" alt="Sarayu Pulipati" style="border: 5px solid #6cbe68;">
                 <p>Sarayu Pulipati</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/GinaSharma.jpg" alt="Gina Sharma" style="border: 5px solid #6cbe68;">
+                <img src="images/photoshoot25/GinaSharma.jpg" alt="Gina Sharma" style="border: 5px solid #6cbe68;">
                 <p>Gina Sharma</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/JiyoungNam.jpg" alt="Jiyoung Nam" style="border: 5px solid #6cbe68;">
+                <img src="images/photoshoot25/JiyoungNam.jpg" alt="Jiyoung Nam" style="border: 5px solid #6cbe68;">
                 <p>Jiyoung Nam</p>
             </div>
             <div class="officer">
-                <img src="images/photoshoot/NavyaAlishala.jpg" alt="Navya Alishala" style="border: 5px solid #6cbe68;">
+                <img src="images/photoshoot25/NavyaAlishala.jpg" alt="Navya Alishala" style="border: 5px solid #6cbe68;">
                 <p>Navya Alishala</p>
             </div>
         </div>
