@@ -29,9 +29,9 @@ commenting out the script did make the white screen go away :
         <b>January 31, 2026</b>
         <br><br>
         <Button
-                text="More Info"
+                text="Results"
                 url="https://www.duosmium.org/results/2026-02-04_virginia_tech_invitational_c/"
-                bgcolor="#A906D1"
+                bgcolor="#FF5EC9"
                 txtcolor="black"
                 active={true}
         />
@@ -39,7 +39,7 @@ commenting out the script did make the white screen go away :
         <Button
                 text="Tests"
                 url="https://drive.google.com/drive/folders/1ZJfC7IBFYWdL6u1_AsnJjA3KU2XMeN5V?usp=sharing"
-                bgcolor="#A906D1"
+                bgcolor="#FF5EC9"
                 txtcolor="black"
                 active={true}
         />
@@ -108,7 +108,7 @@ commenting out the script did make the white screen go away :
     }
 
     .border.b {
-        border-right: 5px solid #A906D1;
+        border-right: 5px solid #FF5EC9;
         animation: growHeight ease 2s 1 forwards;
     }
 
