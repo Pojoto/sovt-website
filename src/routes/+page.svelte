@@ -26,7 +26,7 @@ commenting out the script did make the white screen go away :
         <br>
         <p style="font-size:medium; margin-top: 0.25rem;"></p>
 
-        <b>January 31, 2026</b>
+        <b>February 4-13, 2026</b>
         <br><br>
         <Button
                 text="Results"
