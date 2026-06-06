@@ -33,7 +33,7 @@
             <div class="officer break"></div>
             <div class="officer">
                 <img src="images/photoshoot/joylyn.jpg" alt="Joylyn Wang" style="border: 5px solid #076c9b;">
-                <p>Joylyn Wang</p>
+                <p>Joylyn Wang the GOAT</p>
             </div>
             <div class="officer">
                 <img src="images/photoshoot/vy.jpg" alt="Vy Tran" style="border: 5px solid #076c9b;">
